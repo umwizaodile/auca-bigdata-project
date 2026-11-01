@@ -1,0 +1,18 @@
+table,check,rows_affected,rows_total,percent
+users,rows removed (duplicate or missing key),0,10000,0.0
+products,rows removed (duplicate or missing key),0,5000,0.0
+transactions,rows removed (duplicate or missing key),0,50000,0.0
+sessions,rows removed (duplicate or missing key),0,200000,0.0
+sessions,visited cart page but cart is empty,43590,200000,21.8
+sessions,reached checkout/confirmation with empty cart,29051,200000,14.53
+sessions,marked 'converted' but no transaction found,15515,200000,7.76
+sessions,duration_seconds does not match end - start,0,200000,0.0
+sessions,country is not US although state is a US state code,199183,200000,99.59
+transactions,sum of items != subtotal,0,50000,0.0
+transactions,subtotal - discount != total,0,50000,0.0
+transactions,no session link (session_id is null),24906,50000,49.81
+transactions,line items pointing to unknown product,0,109863,0.0
+sessions,sessions of unknown user,0,200000,0.0
+users,last_active is earlier than the user's last purchase,8874,10000,88.74
+users,country is not US although state is a US state code,9962,10000,99.62
+products,out of stock,163,5000,3.26

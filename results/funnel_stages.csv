@@ -1,0 +1,7 @@
+stage,sessions,share_of_all_sessions,step_conversion
+sessions,50000,100.0,
+viewed_product,49335,98.7,98.7
+added_to_cart,32413,64.8,65.7
+reached_checkout,14540,29.1,44.9
+completed,10164,20.3,69.9
+purchase_recorded,10164,20.3,100.0

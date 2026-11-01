@@ -1,0 +1,20 @@
+# virtual environment and caches
+venv/
+__pycache__/
+*.pyc
+.vscode/
+
+# generated data (recreate with dataset_generator.py and convert_to_jsonl.py)
+/categories.json
+/products.json
+/users.json
+/transactions.json
+/sessions_*.json
+data/
+*.jsonl
+
+# Spark leftovers
+spark-warehouse/
+metastore_db/
+derby.log
+clean/

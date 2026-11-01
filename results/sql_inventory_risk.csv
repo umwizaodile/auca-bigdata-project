@@ -1,0 +1,11 @@
+product_id,name,category_name,current_stock,is_active,units_sold,units_per_day,days_of_stock_left,views,cart_adds
+prod_02009,Up-Sized User-Facing Capacity,Baldwin Ltd,0,True,64,0.7,0.0,86,66
+prod_04954,De-Engineered 24Hour Orchestration,"Anderson, Walls and Duncan",0,True,62,0.68,0.0,88,62
+prod_00673,Mandatory Systemic Task-Force,Baldwin Ltd,0,True,59,0.65,0.0,93,69
+prod_00909,Face-To-Face System-Worthy Hardware,Bush Inc,0,True,54,0.59,0.0,88,43
+prod_01210,Automated Stable Help-Desk,Cameron-Parsons,0,True,53,0.58,0.0,77,46
+prod_04789,Adaptive Global Contingency,"Ellis, Baker and Wright",0,True,52,0.57,0.0,77,47
+prod_02093,Multi-Tiered Radical Help-Desk,Mitchell-Kim,0,True,52,0.57,0.0,107,51
+prod_03561,Intuitive Bi-Directional Workforce,"Moore, Becker and Carlson",0,True,52,0.57,0.0,86,52
+prod_02869,Switchable Reciprocal Capability,Spence PLC,0,True,51,0.56,0.0,67,52
+prod_04161,Assimilated Global Info-Mediaries,Cameron-Parsons,0,True,51,0.56,0.0,98,67

@@ -1,0 +1,2 @@
+sessions,viewed_product,added_to_cart,reached_checkout,completed,purchase_recorded,view_rate,cart_rate,checkout_rate,complete_rate,record_rate,overall_rate
+50000,49335,32413,14540,10164,10164,0.9867,0.6569980743893787,0.4485854441119304,0.6990371389270976,1.0,0.20328

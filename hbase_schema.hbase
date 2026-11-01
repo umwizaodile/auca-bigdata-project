@@ -1,0 +1,9 @@
+# HBase schema for the e-commerce project
+# (skip this file if the tables already exist: create fails on an existing table)
+# Row key user_sessions : user_id#reverse_timestamp#session_id  (newest session first per user)
+# Row key product_daily : product_id#yyyymmdd
+create 'user_sessions', {NAME => 'info', VERSIONS => 1}, {NAME => 'pv', VERSIONS => 1}, {NAME => 'cart', VERSIONS => 1}
+create 'product_daily', {NAME => 'm', VERSIONS => 1}
+list
+describe 'user_sessions'
+exit

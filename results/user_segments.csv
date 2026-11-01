@@ -1,0 +1,6 @@
+users,segment,total_revenue,avg_spent_per_user,avg_orders
+58,1. No purchase,0.0,0.0,0.0
+352,2. One-time buyer,378169.42,1074.34,1.0
+3979,3. Occasional (2-4),13857919.59,3482.76,3.2
+5267,4. Regular (5-9),35729722.28,6783.7,6.3
+344,5. Loyal (10+),3961164.38,11515.01,10.7

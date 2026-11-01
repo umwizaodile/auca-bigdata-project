@@ -1,0 +1,26 @@
+units_sold,category_id,category_name,revenue,orders,avg_revenue_per_order
+10341,cat_004,Kelly-Santiago,2662824.71,4984,534.27
+9401,cat_005,Cameron-Parsons,2492292.2,4515,552.0
+9689,cat_014,"Anderson, Walls and Duncan",2487952.66,4642,535.97
+9061,cat_024,"Patterson, Smith and Jones",2376473.86,4317,550.49
+9135,cat_006,"Ellis, Baker and Wright",2351479.21,4423,531.65
+9854,cat_017,Hancock Inc,2350456.53,4763,493.48
+8948,cat_021,Mitchell-Kim,2345137.35,4333,541.23
+9441,cat_012,Carney-Santos,2325292.74,4568,509.04
+9358,cat_018,Phillips Inc,2322943.77,4538,511.89
+9106,cat_003,Bush Inc,2280953.07,4381,520.65
+8857,cat_010,Burns-Rodriguez,2266514.46,4335,522.84
+8823,cat_015,Owens-Daniel,2264664.0,4284,528.63
+9222,cat_019,Powell PLC,2256422.53,4457,506.26
+9381,cat_020,"Brewer, Bryant and Hickman",2226414.65,4492,495.64
+9391,cat_001,Baldwin Ltd,2207008.33,4521,488.17
+8300,cat_011,Spence PLC,2196817.34,3995,549.89
+8524,cat_008,Rodriguez-Graham,2110085.44,4184,504.32
+8237,cat_022,Preston Ltd,2049797.79,4035,508.0
+8195,cat_009,Skinner-Romero,2040118.13,3972,513.62
+7831,cat_007,"Moore, Becker and Carlson",1993110.53,3807,523.54
+8131,cat_023,King-Odonnell,1989371.19,3966,501.61
+7903,cat_002,James LLC,1975944.67,3871,510.45
+7696,cat_016,Wright-Leblanc,1973768.39,3756,525.5
+7747,cat_013,Smith Ltd,1913084.01,3733,512.48
+7362,cat_000,"Rodriguez, Figueroa and Sanchez",1850619.48,3586,516.07

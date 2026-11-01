@@ -1,0 +1,14 @@
+# Sample HBase shell queries (run after load_hbase.py)
+
+# 1. Prefix scan: first 3 sessions of one user, 'info' family only (newest first)
+scan 'user_sessions', {STARTROW => 'user_000000#', STOPROW => 'user_000000$', COLUMNS => ['info'], LIMIT => 3}
+
+# 2. Row count of the table (about 12 seconds)
+count 'user_sessions', INTERVAL => 10000
+
+# 3. Point lookup: one product on one day
+get 'product_daily', 'prod_00000#20260923'
+
+# 4. Range scan: one product, September 2026
+scan 'product_daily', {STARTROW => 'prod_00000#20260901', STOPROW => 'prod_00000#20261001'}
+exit

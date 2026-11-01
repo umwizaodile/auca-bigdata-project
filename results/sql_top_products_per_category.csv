@@ -1,0 +1,76 @@
+category_id,category_name,rnk,product_id,product_name,units,revenue,pct_of_category
+cat_000,"Rodriguez, Figueroa and Sanchez",1,prod_02408,Optimized Stable Ability,53,27539.33,1.49
+cat_000,"Rodriguez, Figueroa and Sanchez",2,prod_04681,Total Tertiary Forecast,46,26640.9,1.44
+cat_000,"Rodriguez, Figueroa and Sanchez",3,prod_02003,Innovative Uniform Synergy,56,25576.32,1.38
+cat_001,Baldwin Ltd,1,prod_01751,Diverse Motivating Time-Frame,102,33779.34,1.53
+cat_001,Baldwin Ltd,2,prod_00992,Polarized Optimal Orchestration,77,30444.26,1.38
+cat_001,Baldwin Ltd,3,prod_03070,Visionary Fresh-Thinking Firmware,63,29243.97,1.33
+cat_002,James LLC,1,prod_00016,Triple-Buffered Intermediate Ability,69,31984.95,1.62
+cat_002,James LLC,2,prod_02458,Quality-Focused Zero Administration Capability,43,24580.95,1.24
+cat_002,James LLC,3,prod_00169,Enhanced Attitude-Oriented Pricing Structure,49,24516.66,1.24
+cat_003,Bush Inc,1,prod_03061,Synchronized Mobile Matrix,63,35307.72,1.55
+cat_003,Bush Inc,2,prod_04071,Optional Mission-Critical Flexibility,67,31692.34,1.39
+cat_003,Bush Inc,3,prod_03136,Realigned Needs-Based Project,61,31044.73,1.36
+cat_004,Kelly-Santiago,1,prod_04683,Proactive Non-Volatile Throughput,69,33127.59,1.24
+cat_004,Kelly-Santiago,2,prod_04044,Reactive Mission-Critical Analyzer,63,29862.0,1.12
+cat_004,Kelly-Santiago,3,prod_04578,Programmable Multi-Tasking Pricing Structure,66,29498.04,1.11
+cat_005,Cameron-Parsons,1,prod_03733,Ergonomic Methodical Customer Loyalty,78,34264.62,1.37
+cat_005,Cameron-Parsons,2,prod_02016,Multi-Channeled Bottom-Line Application,75,32217.75,1.29
+cat_005,Cameron-Parsons,3,prod_03640,Virtual Bottom-Line Infrastructure,81,30624.48,1.23
+cat_006,"Ellis, Baker and Wright",1,prod_02161,Multi-Layered Stable Concept,68,36421.48,1.55
+cat_006,"Ellis, Baker and Wright",2,prod_01356,Streamlined Client-Driven Paradigm,71,34355.48,1.46
+cat_006,"Ellis, Baker and Wright",3,prod_03706,Proactive 3Rdgeneration Process Improvement,65,33239.05,1.41
+cat_007,"Moore, Becker and Carlson",1,prod_00119,Down-Sized Fault-Tolerant Policy,65,33705.1,1.69
+cat_007,"Moore, Becker and Carlson",2,prod_01496,Object-Based Responsive Functionalities,60,31315.8,1.57
+cat_007,"Moore, Becker and Carlson",3,prod_02904,Devolved 24Hour Hierarchy,59,27992.55,1.4
+cat_008,Rodriguez-Graham,1,prod_01757,Organic Systematic Benchmark,63,31200.75,1.48
+cat_008,Rodriguez-Graham,2,prod_02555,Balanced Bi-Directional Moratorium,63,28620.9,1.36
+cat_008,Rodriguez-Graham,3,prod_04281,Exclusive Impactful Frame,59,27717.02,1.31
+cat_009,Skinner-Romero,1,prod_00965,Cross-Group Real-Time Process Improvement,74,33008.44,1.62
+cat_009,Skinner-Romero,2,prod_00154,Triple-Buffered Homogeneous Info-Mediaries,54,32084.1,1.57
+cat_009,Skinner-Romero,3,prod_00355,Seamless Intermediate Focus Group,70,30729.3,1.51
+cat_010,Burns-Rodriguez,1,prod_01645,Polarized Static Function,69,30109.53,1.33
+cat_010,Burns-Rodriguez,2,prod_01814,Cross-Platform Optimizing Graphical User Interface,58,28849.78,1.27
+cat_010,Burns-Rodriguez,3,prod_04249,Expanded Maximized Installation,63,28363.86,1.25
+cat_011,Spence PLC,1,prod_02492,Ergonomic Client-Server Interface,72,32438.16,1.48
+cat_011,Spence PLC,2,prod_03719,Reactive Content-Based Matrix,65,30802.85,1.4
+cat_011,Spence PLC,3,prod_04396,Innovative Neutral Ability,52,28017.6,1.28
+cat_012,Carney-Santos,1,prod_04449,Ameliorated Modular Intranet,63,32819.85,1.41
+cat_012,Carney-Santos,2,prod_02028,Sharable Interactive Intranet,66,32742.6,1.41
+cat_012,Carney-Santos,3,prod_00939,Down-Sized Full-Range Help-Desk,67,27204.01,1.17
+cat_013,Smith Ltd,1,prod_01019,Synchronized Grid-Enabled Knowledge User,66,30641.16,1.6
+cat_013,Smith Ltd,2,prod_00299,Multi-Lateral Fault-Tolerant Contingency,66,30269.58,1.58
+cat_013,Smith Ltd,3,prod_00596,Grass-Roots Zero Tolerance Infrastructure,57,27552.09,1.44
+cat_014,"Anderson, Walls and Duncan",1,prod_02419,Team-Oriented Client-Server Monitoring,58,32594.84,1.31
+cat_014,"Anderson, Walls and Duncan",2,prod_00621,Ameliorated Global Project,68,31212.0,1.25
+cat_014,"Anderson, Walls and Duncan",3,prod_01984,Customer-Focused Zero Tolerance Pricing Structure,53,30462.81,1.22
+cat_015,Owens-Daniel,1,prod_00799,Managed Value-Added Archive,70,35177.8,1.55
+cat_015,Owens-Daniel,2,prod_04939,Programmable Object-Oriented Open Architecture,75,35083.5,1.55
+cat_015,Owens-Daniel,3,prod_04684,Multi-Layered Interactive Toolset,70,32708.9,1.44
+cat_016,Wright-Leblanc,1,prod_03793,Right-Sized Leadingedge Task-Force,61,32235.45,1.63
+cat_016,Wright-Leblanc,2,prod_04370,Secured Systemic Data-Warehouse,68,30479.64,1.54
+cat_016,Wright-Leblanc,3,prod_03802,Proactive Asymmetric Architecture,72,28555.2,1.45
+cat_017,Hancock Inc,1,prod_00823,Enterprise-Wide Local Analyzer,80,34399.2,1.46
+cat_017,Hancock Inc,2,prod_04958,Business-Focused Logistical Concept,66,30561.96,1.3
+cat_017,Hancock Inc,3,prod_04652,Up-Sized 5Thgeneration Knowledge User,62,30396.12,1.29
+cat_018,Phillips Inc,1,prod_00253,Synergistic Systematic Parallelism,52,28358.72,1.22
+cat_018,Phillips Inc,2,prod_00543,Persevering Holistic Approach,58,28192.06,1.21
+cat_018,Phillips Inc,3,prod_03175,Team-Oriented Motivating Installation,57,27370.26,1.18
+cat_019,Powell PLC,1,prod_01889,Triple-Buffered Value-Added Workforce,81,37582.38,1.67
+cat_019,Powell PLC,2,prod_03337,Intuitive Multi-State Hub,61,32061.6,1.42
+cat_019,Powell PLC,3,prod_02447,User-Friendly Executive Neural-Net,65,31189.6,1.38
+cat_020,"Brewer, Bryant and Hickman",1,prod_02442,Profit-Focused Executive Focus Group,76,32693.68,1.47
+cat_020,"Brewer, Bryant and Hickman",2,prod_01416,Seamless Analyzing Benchmark,50,29139.0,1.31
+cat_020,"Brewer, Bryant and Hickman",3,prod_03639,Horizontal Executive Open System,56,28101.36,1.26
+cat_021,Mitchell-Kim,1,prod_02715,Operative Homogeneous Functionalities,77,39345.46,1.68
+cat_021,Mitchell-Kim,2,prod_04940,Advanced Exuding Artificial Intelligence,68,37935.16,1.62
+cat_021,Mitchell-Kim,3,prod_01667,Down-Sized Even-Keeled Budgetary Management,65,30373.85,1.3
+cat_022,Preston Ltd,1,prod_02509,Organized Bandwidth-Monitored Archive,60,31960.8,1.56
+cat_022,Preston Ltd,2,prod_03450,Assimilated Full-Range Algorithm,83,31225.43,1.52
+cat_022,Preston Ltd,3,prod_01982,Team-Oriented Multimedia Portal,69,29641.71,1.45
+cat_023,King-Odonnell,1,prod_03694,Decentralized National Process Improvement,68,32240.16,1.62
+cat_023,King-Odonnell,2,prod_02695,Stand-Alone Hybrid Application,63,30016.35,1.51
+cat_023,King-Odonnell,3,prod_01205,Object-Based Multi-Tasking Task-Force,55,29134.05,1.46
+cat_024,"Patterson, Smith and Jones",1,prod_03222,Horizontal Systematic Superstructure,71,35260.02,1.48
+cat_024,"Patterson, Smith and Jones",2,prod_02091,Configurable Zero Tolerance Projection,74,33496.84,1.41
+cat_024,"Patterson, Smith and Jones",3,prod_00865,Horizontal 4Thgeneration Info-Mediaries,67,33368.01,1.4

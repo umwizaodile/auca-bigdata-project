@@ -1,0 +1,101 @@
+product_id,product_name,category_id,units_sold,rank
+prod_02163,Decentralized Client-Server Capacity,cat_000,72,1
+prod_03592,Re-Contextualized Non-Volatile Hub,cat_000,66,2
+prod_04859,Function-Based High-Level Website,cat_000,65,3
+prod_02295,Distributed Neutral Superstructure,cat_000,64,4
+prod_01751,Diverse Motivating Time-Frame,cat_001,102,1
+prod_00992,Polarized Optimal Orchestration,cat_001,77,2
+prod_02945,Business-Focused Grid-Enabled Installation,cat_001,73,3
+prod_01995,Focused Client-Driven Website,cat_001,72,4
+prod_00016,Triple-Buffered Intermediate Ability,cat_002,69,1
+prod_02951,Future-Proofed Even-Keeled Parallelism,cat_002,66,2
+prod_03456,Robust Scalable Ability,cat_002,65,3
+prod_04271,Diverse Methodical Implementation,cat_002,65,4
+prod_04965,Compatible Human-Resource Moratorium,cat_003,79,1
+prod_01396,Integrated Fault-Tolerant Superstructure,cat_003,70,2
+prod_01129,Sharable 24Hour Website,cat_003,67,3
+prod_04071,Optional Mission-Critical Flexibility,cat_003,67,4
+prod_02747,Proactive Modular Analyzer,cat_004,83,1
+prod_01843,Optimized Didactic Circuit,cat_004,79,2
+prod_02423,Intuitive Zero Tolerance Internet Solution,cat_004,79,3
+prod_04785,Customizable Optimizing System Engine,cat_004,74,4
+prod_03640,Virtual Bottom-Line Infrastructure,cat_005,81,1
+prod_03733,Ergonomic Methodical Customer Loyalty,cat_005,78,2
+prod_01458,Monitored Neutral Functionalities,cat_005,77,3
+prod_02016,Multi-Channeled Bottom-Line Application,cat_005,75,4
+prod_04285,Polarized Hybrid Projection,cat_006,87,1
+prod_04824,Multi-Tiered Systemic Focus Group,cat_006,76,2
+prod_01564,Extended Reciprocal Project,cat_006,75,3
+prod_02773,Team-Oriented Asynchronous Archive,cat_006,73,4
+prod_03080,Public-Key Dedicated Complexity,cat_007,82,1
+prod_03538,Sharable Contextually-Based System Engine,cat_007,67,2
+prod_01515,Integrated Reciprocal Application,cat_007,66,3
+prod_04850,Compatible Client-Server Superstructure,cat_007,66,4
+prod_02745,Re-Engineered Secondary Instruction Set,cat_008,70,1
+prod_02765,Managed System-Worthy Pricing Structure,cat_008,68,2
+prod_00151,Multi-Tiered Logistical Graphic Interface,cat_008,65,3
+prod_03396,Reverse-Engineered Exuding Orchestration,cat_008,65,4
+prod_00653,Organized Empowering Hardware,cat_009,76,1
+prod_00965,Cross-Group Real-Time Process Improvement,cat_009,74,2
+prod_02656,Universal Local Instruction Set,cat_009,72,3
+prod_03522,Object-Based Transitional Synergy,cat_009,72,4
+prod_01865,Universal Zero Administration Projection,cat_010,71,1
+prod_03441,Grass-Roots Upward-Trending Project,cat_010,70,2
+prod_03718,De-Engineered Grid-Enabled Success,cat_010,70,3
+prod_01194,Down-Sized Scalable Workforce,cat_010,69,4
+prod_01551,Automated 4Thgeneration Process Improvement,cat_011,80,1
+prod_00474,Persevering Value-Added Portal,cat_011,77,2
+prod_01536,Open-Architected Methodical Framework,cat_011,72,3
+prod_02492,Ergonomic Client-Server Interface,cat_011,72,4
+prod_00729,Balanced Impactful Architecture,cat_012,77,1
+prod_03964,Cloned Content-Based Workforce,cat_012,74,2
+prod_01720,Decentralized Holistic Migration,cat_012,72,3
+prod_04081,Multi-Layered Bottom-Line Function,cat_012,72,4
+prod_02117,Assimilated Mission-Critical Internet Solution,cat_013,78,1
+prod_00308,Focused National Encoding,cat_013,73,2
+prod_01895,Optional Client-Server Firmware,cat_013,73,3
+prod_00036,Business-Focused Next Generation Encryption,cat_013,67,4
+prod_03533,Stand-Alone Fresh-Thinking Support,cat_014,78,1
+prod_02258,Secured Demand-Driven Moratorium,cat_014,76,2
+prod_02110,Programmable Well-Modulated Analyzer,cat_014,71,3
+prod_00867,Stand-Alone Directional Service-Desk,cat_014,70,4
+prod_04939,Programmable Object-Oriented Open Architecture,cat_015,75,1
+prod_03832,Assimilated Fault-Tolerant Access,cat_015,73,2
+prod_04973,Re-Contextualized Client-Driven Customer Loyalty,cat_015,72,3
+prod_00799,Managed Value-Added Archive,cat_015,70,4
+prod_00392,Secured Scalable Algorithm,cat_016,72,1
+prod_03802,Proactive Asymmetric Architecture,cat_016,72,2
+prod_00102,Business-Focused Eco-Centric Matrices,cat_016,70,3
+prod_00916,Face-To-Face Upward-Trending Capacity,cat_016,68,4
+prod_04853,Mandatory Discrete Internet Solution,cat_017,85,1
+prod_00823,Enterprise-Wide Local Analyzer,cat_017,80,2
+prod_01049,Face-To-Face Reciprocal Extranet,cat_017,77,3
+prod_04052,Organic Well-Modulated Matrix,cat_017,75,4
+prod_00329,Right-Sized National Adapter,cat_018,75,1
+prod_00419,Distributed Real-Time Migration,cat_018,74,2
+prod_01280,Future-Proofed Multi-Tasking Analyzer,cat_018,73,3
+prod_03444,Automated Analyzing Policy,cat_018,71,4
+prod_01889,Triple-Buffered Value-Added Workforce,cat_019,81,1
+prod_01989,Distributed Secondary Hierarchy,cat_019,73,2
+prod_03854,Assimilated Static Flexibility,cat_019,73,3
+prod_03015,Compatible Clear-Thinking Migration,cat_019,71,4
+prod_01081,User-Centric Empowering Paradigm,cat_020,76,1
+prod_02442,Profit-Focused Executive Focus Group,cat_020,76,2
+prod_04279,Enhanced Reciprocal Utilization,cat_020,76,3
+prod_02023,Reduced Content-Based Time-Frame,cat_020,75,4
+prod_02260,Inverse Context-Sensitive Access,cat_021,78,1
+prod_00747,Customer-Focused Coherent Benchmark,cat_021,77,2
+prod_02715,Operative Homogeneous Functionalities,cat_021,77,3
+prod_00587,Up-Sized Responsive Methodology,cat_021,75,4
+prod_03450,Assimilated Full-Range Algorithm,cat_022,83,1
+prod_01921,Expanded Cohesive Info-Mediaries,cat_022,71,2
+prod_01982,Team-Oriented Multimedia Portal,cat_022,69,3
+prod_03002,Intuitive Value-Added Budgetary Management,cat_022,67,4
+prod_01968,Phased Grid-Enabled Intranet,cat_023,79,1
+prod_02159,Fundamental Bandwidth-Monitored Adapter,cat_023,71,2
+prod_02279,Focused Upward-Trending Groupware,cat_023,69,3
+prod_00758,Exclusive Impactful Hub,cat_023,68,4
+prod_01032,Compatible Object-Oriented Emulation,cat_024,79,1
+prod_04535,Up-Sized Mission-Critical Conglomeration,cat_024,77,2
+prod_02091,Configurable Zero Tolerance Projection,cat_024,74,3
+prod_00249,Business-Focused Systematic Artificial Intelligence,cat_024,72,4

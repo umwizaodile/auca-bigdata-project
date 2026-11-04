@@ -46,6 +46,8 @@ Java 8 to 17 (needed by Spark), PyMongo, HappyBase, pandas, Matplotlib. Tested o
 | `spark_recommend.py` | Spark batch job 2: recommendation indicators with a chance baseline |
 | `spark_sql.py` | Spark SQL analytics (5 queries on `mongo_*` and `hbase_*` views) |
 | `spark_integrated.py` | Part 3: funnel analysis joining HBase and MongoDB data in Spark |
+| `spark_streaming_sim.py` | Simulated stream processing: 91 daily micro-batches, checked against the batch result |
+| `mongo_session_queries.py` | Two session pipelines: most viewed products and session journey by referrer |
 | `make_charts.py` | Builds the charts from the saved results |
 | `results/`, `charts/`, `screenshots/` | Output tables, figures and evidence screenshots |
 
@@ -100,6 +102,8 @@ databases for the Spark-only jobs with `docker stop mongo-auca hbase-auca`)
 | `python spark_recommend.py` | JSONL files | `results/chance_baseline.csv`, `category_affinity.csv`, `category_bestsellers.csv` |
 | `python spark_sql.py` | JSONL files | `results/sql_*.csv` |
 | `python spark_integrated.py` | MongoDB, HBase, JSONL | `results/funnel_*.csv` |
+| `python spark_streaming_sim.py` | JSONL files | `results/stream_batches.csv`, `charts/06_streaming_conversion.png` |
+| `python mongo_session_queries.py` | MongoDB | `results/most_viewed_products.csv`, `results/session_journey_by_referrer.csv` |
 | `python make_charts.py` | results files | `charts/*.png` |
 
 HBase shell examples: `Get-Content hbase_shell_queries.hbase | docker exec -i hbase-auca hbase shell`.

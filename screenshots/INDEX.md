@@ -1,4 +1,4 @@
-# Evidence screenshots
+﻿# Evidence screenshots
 
 | File | What it shows | What it supports |
 |---|---|---|
@@ -46,3 +46,5 @@
 | `42_integrated_funnel_part1.png` | Integrated funnel (HBase + MongoDB + Spark): integrity check and overall funnel | Part 3 integrated query |
 | `43_integrated_funnel_part2.png` | Funnel by referrer and device, abandoned carts, cross-check with all sessions | Part 3 results and validation |
 | `44_make_charts_run.png` | Chart generation: five PNG charts saved | Part 4 visualizations |
+| `45_spark_streaming_sim.png` | Simulated streaming run: 91 daily micro-batches, totals identical to the batch job | Learning objective: simulated stream processing |
+
